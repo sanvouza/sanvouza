@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 - 🔭 I’m currently working on **private projetcs.**
 
-- 👯 I’m looking to collaborate on **ReactJS / React Native / Angular projects.**
+- 👯 I’m looking to collaborate on **ReactJS / Angular projects.**
 
 - 📫 How to reach me **va.web.nessa@gmail.com** | **dasilva.vanessasouza@gmail.com**
 
